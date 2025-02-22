@@ -15,3 +15,8 @@ I am Taixi Chen, a year 4 undergraduate student at Hong Kong Baptist University.
 <br>
 B.Sc in Computer Science  B.Sc in Computer Science  
 
+---
+<div class="map-container">
+      <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=oMV34JLFA3Jp3H41-As6Lgg-0IQPFESA6TJlIwAjQWs'></script>
+      <br>
+</div>

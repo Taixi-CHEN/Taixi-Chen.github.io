@@ -25,10 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Taixi Chen"
   pronouns         : # example: "she/her"  
-  bio              : "HKBU CST|Reasearch Assistant"
+  bio              : "CST | Reasearch Assistant"
   location         : "Hong Kong"
   employer         : "Hong Kong Baptist University"
-  uri              : "https://www.hkbu.edu.hk/"
+  uri              : #"https://www.hkbu.edu.hk/"
   email            : "taixics@gmail.com" 
 
   # Academic websites
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Taixi's home"
+title:
 author_profile: true
 redirect_from: 
   - /about/

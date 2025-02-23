@@ -16,7 +16,7 @@ I am Taixi Chen, a year 4 undergraduate student at Hong Kong Baptist University.
 B.Sc in Computer Science
 
 ---
-<div style = "width: 759px">
+<div style="width: 100%; margin: auto;">
       <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=oMV34JLFA3Jp3H41-As6Lgg-0IQPFESA6TJlIwAjQWs'></script>
       <br>
 </div>

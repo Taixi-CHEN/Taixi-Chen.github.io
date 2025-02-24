@@ -10,7 +10,7 @@ I am Taixi Chen, a year 4 undergraduate student at Hong Kong Baptist University.
 
 ---
 
-## 📖 Education
+## 📖 Education {#education}
 **Hong Kong Baptist University, Kowloon, Hong Kong**     <span style="float: right;">Sep 2021 – Present</span>
 <br>
 B.Sc in Computer Science

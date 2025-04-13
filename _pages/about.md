@@ -20,8 +20,8 @@ B.Sc in Computer Science
 ## 📖 Honors {#ho}
 **President's Honour Roll**  
 
-**CST Concentration Award (CST Courses GPA: 4.0/4.0)**
-
+**CST Concentration Award (CST Courses GPA: 4.0/4.0, Year-3 2nd GPA: 4.0/4.0)**
+ 
 ---
 
 ## 📖 Publication and Research Projects {#pub}

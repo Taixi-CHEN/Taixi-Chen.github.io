@@ -18,7 +18,7 @@ B.Sc in Computer Science
 ---
 
 ## 📖 Publication and Research experience {#pub}
-**TYrPPG: Uncomplicated and Enhanced Learning Capability rPPG**
+**TYrPPG: Uncomplicated and Enhanced Learning Capability rPPG**  
 **for Remote Heart Rate Estimation**
 <br>
 submitted to ACM MM25 (Undergrad first author research paper)

@@ -33,17 +33,17 @@ Submitted to KDD25 (Undergrad first author paper)
 Undergrad Research Project
 <br>
 
-**Parameter adaptive Multi-classifier analyzing complex dataset with noise**  
+**Parameter Adaptive Multi-classifier Analyzing Complex Dataset with Noise**  
 Undergrad Course Project
 <br>
 
-**Intelligent classification of land use based on BP neural network**  
-**and stormwater simulation**  
+**Intelligent Classification of Land Use based on BP Neural Network**  
+**and Stormwater Simulation**  
 Undergrad Co-author Journal Paper
 <br> 
 
 
-**Image denoising based on deep residual network with dual-domain information**  
+**Image Denoising based on Deep Residual Network with Dual-domain Information**  
 Undergrad Co-author Journal Paper
 <br>
 

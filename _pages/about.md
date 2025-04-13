@@ -24,7 +24,7 @@ B.Sc in Computer Science
 submitted to ACM MM25 (Undergrad first author research paper)
 <br>
 
-**CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering** 
+**CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering**  
 submitted to KDD25 (Undergrad first author research paper)
 <br>
 

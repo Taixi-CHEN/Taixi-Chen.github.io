@@ -29,24 +29,20 @@ submitted to KDD25 (Undergrad first author research paper)
 <br>
 
 
-**FT-Net: A FAST and Accurate Text Classification Model**     
-<br>
+**FT-Net: A FAST and Accurate Text Classification Model**  
 Undergrad research project
 <br>
 
 **Parameter adaptive Multi-classifier analyzing complex dataset with noise**  
-<br>
 Undergrad course project
 <br>
 
 **Intelligent classification of land use based on BP neural network and stormwater simulation**  
-<br>
 Co-author Journal paper
 <br> 
 
 
-**Image denoising based on deep residual network with dual-domain information**     
-<br>
+**Image denoising based on deep residual network with dual-domain information**  
 Co-author Journal paper
 <br>
 

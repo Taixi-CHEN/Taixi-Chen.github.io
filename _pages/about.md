@@ -55,9 +55,8 @@ Undergrad Co-author Journal Paper
 <br>
 
 ---
-<div style="width: 100%; margin: auto;">
-      <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=oMV34JLFA3Jp3H41-As6Lgg-0IQPFESA6TJlIwAjQWs'></script>
-      <br>
+<div style="width: 100%; margin: auto; display: none;">
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=oMV34JLFA3Jp3H41-As6Lgg-0IQPFESA6TJlIwAjQWs'></script>
+    <br>
 </div>
-
 

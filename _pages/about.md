@@ -10,6 +10,7 @@ I am Taixi Chen, an incoming CS PhD student at the State University of New York 
 
 ---
 
+
 ## 📖 Education {#education}
 **Hong Kong Baptist University, Kowloon, Hong Kong**     <span style="float: right;">Sep 2021 – Present</span>
 <br>

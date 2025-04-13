@@ -10,7 +10,6 @@ I am Taixi Chen, an incoming CS PhD student at the State University of New York 
 
 ---
 
-
 ## 📖 Education {#education}
 **Hong Kong Baptist University, Kowloon, Hong Kong**     <span style="float: right;">Sep 2021 – Present</span>
 <br>
@@ -23,13 +22,13 @@ B.Sc in Computer Science
 </div>
 
 ## 📖 Publication and Research experience {#pub}
-**TYrPPG: Uncomplicated and Enhanced Learning Capability rPPG for Remote Heart Rate Estimation**     <span style="float: right;">Undergrad research paper</span>
+**TYrPPG: Uncomplicated and Enhanced Learning Capability rPPG for Remote Heart Rate Estimation**     <span style="float: right;">Undergrad first author research paper</span>
 <br>
 submitted to ACM MM25
 
 <br>
 
-**CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering**     <span style="float: right;">Undergrad research paper</span>
+**CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering**     <span style="float: right;">Undergrad first author research paper</span>
 <br>
 submitted to KDD25
 

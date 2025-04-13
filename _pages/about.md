@@ -22,7 +22,7 @@ B.Sc in Computer Science
       <br>
 </div>
 
-<!-- ## 📖 Publication and Research experience {#pub}
+## 📖 Publication and Research experience {#pub}
 **TYrPPG: Uncomplicated and Enhanced Learning Capability rPPG for Remote Heart Rate Estimation**     <span style="float: right;">Undergrad research paper</span>
 <br>
 submitted to ACM MM25
@@ -45,7 +45,7 @@ submitted to KDD25
 <!-- 
 
 **Image denoising based on deep residual network with dual-domain information**     <span style="float: right;">Co-author Journal paper</span>
-<br> -->
+<br>
 
 
 

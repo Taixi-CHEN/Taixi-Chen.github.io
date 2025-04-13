@@ -21,29 +21,29 @@ B.Sc in Computer Science
 **TYrPPG: Uncomplicated and Enhanced Learning Capability rPPG**  
 **for Remote Heart Rate Estimation**
 <br>
-submitted to ACM MM25 (Undergrad first author research paper)
+Submitted to ACM MM25 (Undergrad first author paper)
 <br>
 
 **CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering**  
-submitted to KDD25 (Undergrad first author research paper)
+Submitted to KDD25 (Undergrad first author paper)
 <br>
 
 
 **FT-Net: A FAST and Accurate Text Classification Model**  
-Undergrad research project
+Undergrad Research Project
 <br>
 
 **Parameter adaptive Multi-classifier analyzing complex dataset with noise**  
-Undergrad course project
+Undergrad Course Project
 <br>
 
 **Intelligent classification of land use based on BP neural network and stormwater simulation**  
-Co-author Journal paper
+Undergrad Co-author Journal Paper
 <br> 
 
 
 **Image denoising based on deep residual network with dual-domain information**  
-Co-author Journal paper
+Undergrad Co-author Journal Paper
 <br>
 
 ---

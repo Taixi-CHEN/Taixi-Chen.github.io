@@ -18,28 +18,39 @@ B.Sc in Computer Science
 ---
 
 ## 📖 Publication and Research experience {#pub}
-**TYrPPG: Uncomplicated and Enhanced Learning Capability rPPG for Remote Heart Rate Estimation**     <span style="float: right;">Undergrad first author research paper</span>
-<br>
-submitted to ACM MM25
-
+**TYrPPG: Uncomplicated and Enhanced Learning Capability rPPG**
 <br>
 
-**CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering**     <span style="float: right;">Undergrad first author research paper</span>
+**for Remote Heart Rate Estimation**
 <br>
-submitted to KDD25
-
-
-**FT-Net: A FAST and Accurate Text Classification Model**     <span style="float: right;">Undergrad research project</span>
+submitted to ACM MM25 (Undergrad first author research paper)
 <br>
 
-**Parameter adaptive Multi-classifier analyzing complex dataset with noise**     <span style="float: right;">Undergrad course project</span>
+**CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering**     
+<br>
+submitted to KDD25 (Undergrad first author research paper)
 <br>
 
-**Intelligent classification of land use based on BP neural network and stormwater simulation**     <span style="float: right;">Co-author Journal paper</span>
-<br> -->
-<!-- 
 
-**Image denoising based on deep residual network with dual-domain information**     <span style="float: right;">Co-author Journal paper</span>
+**FT-Net: A FAST and Accurate Text Classification Model**     
+<br>
+Undergrad research project
+<br>
+
+**Parameter adaptive Multi-classifier analyzing complex dataset with noise**  
+<br>
+Undergrad course project
+<br>
+
+**Intelligent classification of land use based on BP neural network and stormwater simulation**  
+<br>
+Co-author Journal paper
+<br> 
+
+
+**Image denoising based on deep residual network with dual-domain information**     
+<br>
+Co-author Journal paper
 <br>
 
 ---

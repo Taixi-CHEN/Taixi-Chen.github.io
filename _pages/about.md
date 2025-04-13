@@ -5,7 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
 ---
 I am Taixi Chen, an incoming CS PhD student at the State University of New York at Binghamton. During my undergraduate studies, I was very grateful for the guidance of my supervisor <a href="https://www.comp.hkbu.edu.hk/~ymc/"> Chair Prof. Cheung Yiu-ming</a>. **My current research interests are clustering analysis, video processing, image data generation, and multimodal LLM for medical problems.** Anyone interested in me, please feel free to contact me!
 

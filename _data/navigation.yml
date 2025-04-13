@@ -8,8 +8,8 @@ main:
   - title: "Education"
     url: /#education
 
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Publications"
+    url: /#pub
 
   # - title: "Talks"
   #   url: /talks/    

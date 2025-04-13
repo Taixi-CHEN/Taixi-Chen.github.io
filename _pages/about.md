@@ -20,3 +20,32 @@ B.Sc in Computer Science
       <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=oMV34JLFA3Jp3H41-As6Lgg-0IQPFESA6TJlIwAjQWs'></script>
       <br>
 </div>
+
+
+## 📖 Publication and Research experience {#pub}
+**TYrPPG: Uncomplicated and Enhanced Learning Capability rPPG for Remote Heart Rate Estimation**     <span style="float: right;">Undergrad research paper</span>
+<br>
+submitted to ACM MM25
+
+<br>
+
+**CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering**     <span style="float: right;">Undergrad research paper</span>
+<br>
+submitted to KDD25
+
+
+**FT-Net: A FAST and Accurate Text Classification Model**     <span style="float: right;">Undergrad research project</span>
+<br>
+
+**Parameter adaptive Multi-classifier analyzing complex dataset with noise**     <span style="float: right;">Undergrad course project</span>
+<br>
+
+**Intelligent classification of land use based on BP neural network and stormwater simulation**     <span style="float: right;">Co-author Journal paper</span>
+<br>
+
+
+**Image denoising based on deep residual network with dual-domain information**     <span style="float: right;">Co-author Journal paper</span>
+<br>
+
+
+

@@ -17,6 +17,13 @@ B.Sc in Computer Science
 
 ---
 
+## 📖 Honors {#ho}
+**President's Honour Roll**
+<br>
+
+**CST Concentration Award (CST Course GPA: 4.0/4.0)**
+---
+
 ## 📖 Publication and Research Projects {#pub}
 **TYrPPG: Uncomplicated and Enhanced Learning Capability rPPG**  
 **for Remote Heart Rate Estimation**

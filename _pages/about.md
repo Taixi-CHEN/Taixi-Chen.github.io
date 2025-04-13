@@ -17,7 +17,7 @@ B.Sc in Computer Science
 
 ---
 
-## 📖 Publication and Research projects {#pub}
+## 📖 Publication and Research Projects {#pub}
 **TYrPPG: Uncomplicated and Enhanced Learning Capability rPPG**  
 **for Remote Heart Rate Estimation**
 <br>

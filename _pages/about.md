@@ -37,7 +37,8 @@ Undergrad Research Project
 Undergrad Course Project
 <br>
 
-**Intelligent classification of land use based on BP neural network and stormwater simulation**  
+**Intelligent classification of land use based on BP neural network**  
+**and stormwater simulation**  
 Undergrad Co-author Journal Paper
 <br> 
 

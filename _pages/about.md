@@ -49,7 +49,9 @@ Undergrad Co-author Journal Paper
 ---
 
 ## 🏆 Honors {#ho}
-<span style="color: blue;">President's Honour Roll </span>  
+<span style="color: blue;"> President's Honour Roll </span>  
+
+<span style="color: blue;"> Dean List </span>  
 
 <span style="color: blue;">CST Concentration Award (CST Courses GPA: 4.0/4.0, Year-3 2nd GPA: 4.0/4.0)</span>
 

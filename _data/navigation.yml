@@ -8,11 +8,11 @@ main:
   - title: "Education"
     url: /#education
 
-  - title: "Honors"
-    url: /#ho
-
   - title: "Publications"
     url: /#pub
+
+  - title: "Honors"
+    url: /#ho
 
   # - title: "Talks"
   #   url: /talks/    

@@ -15,7 +15,7 @@ I am Taixi Chen, an incoming CS PhD student at the State University of New York 
 <br>
 B.Sc in Computer Science
  
----
+
 
 
 ## 🏆 Honors {#ho}

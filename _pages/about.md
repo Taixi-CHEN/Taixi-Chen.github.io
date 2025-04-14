@@ -17,6 +17,16 @@ B.Sc in Computer Science
  
 ---
 
+
+## 🏆 Honors {#ho}
+<span style="color: blue;"> President's Honour Roll </span>  
+
+<span style="color: blue;"> Dean List </span>  
+
+<span style="color: blue;">CST Concentration Award (CST Courses GPA: 4.0/4.0, Year-3 2nd GPA: 4.0/4.0)</span>
+
+
+
 ## 📕 Publication and Research Projects {#pub}
 **TYrPPG: Uncomplicated and Enhanced Learning Capability rPPG**  
 **for Remote Heart Rate Estimation**  
@@ -45,15 +55,6 @@ Undergrad Co-author Journal Paper
 **Image Denoising based on Deep Residual Network with Dual-domain Information**  
 Undergrad Co-author Journal Paper
 <br>
-
----
-
-## 🏆 Honors {#ho}
-<span style="color: blue;"> President's Honour Roll </span>  
-
-<span style="color: blue;"> Dean List </span>  
-
-<span style="color: blue;">CST Concentration Award (CST Courses GPA: 4.0/4.0, Year-3 2nd GPA: 4.0/4.0)</span>
 
 ---
 

@@ -14,13 +14,6 @@ I am Taixi Chen, an incoming CS PhD student at the State University of New York 
 **Hong Kong Baptist University, Kowloon, Hong Kong**     <span style="float: right;">Sep 2021 – Present</span>
 <br>
 B.Sc in Computer Science
-
----
-
-## 🏆 Honors {#ho}
-<span style="color: blue;">President's Honour Roll </span>  
-
-<span style="color: blue;">CST Concentration Award (CST Courses GPA: 4.0/4.0, Year-3 2nd GPA: 4.0/4.0)</span>
  
 ---
 
@@ -55,6 +48,15 @@ Undergrad Co-author Journal Paper
 <br>
 
 ---
+
+## 🏆 Honors {#ho}
+<span style="color: blue;">President's Honour Roll </span>  
+
+<span style="color: blue;">CST Concentration Award (CST Courses GPA: 4.0/4.0, Year-3 2nd GPA: 4.0/4.0)</span>
+
+---
+
+
 <div style="width: 100%; margin: auto; display: none;">
     <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=oMV34JLFA3Jp3H41-As6Lgg-0IQPFESA6TJlIwAjQWs'></script>
     <br>

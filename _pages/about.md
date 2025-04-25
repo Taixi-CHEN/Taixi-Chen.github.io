@@ -30,11 +30,11 @@ B.Sc in Computer Science
 ## 📕 Publication and Research Projects {#pub}
 **TYrPPG: Uncomplicated and Enhanced Learning Capability rPPG**  
 **for Remote Heart Rate Estimation**  
-Submitted to *ACM MM25* (Undergrad first author paper)
+Undergrad first author paper
 <br>
 
 **CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering**  
-Submitted to *KDD25* (Undergrad first author paper)
+Undergrad first author paper
 <br>
 
 

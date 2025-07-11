@@ -19,6 +19,8 @@ B.Sc in Computer Science and Technology, First Class Honours
 
 
 ## 🏆 Honors {#ho}
+<span style="color: blue;"> MI Asia Award </span> 
+
 <span style="color: blue;"> President's Honour Roll </span>  
 
 <span style="color: blue;"> Dean List </span>  

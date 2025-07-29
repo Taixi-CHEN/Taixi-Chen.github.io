@@ -39,15 +39,6 @@ Undergrad first author paper
 Undergrad first author paper
 <br>
 
-
-**FT-Net: A FAST and Accurate Text Classification Model**  
-Undergrad Research Project
-<br>
-
-**Parameter Adaptive Multi-classifier Analyzing Complex Dataset with Noise**  
-Undergrad Course Project
-<br>
-
 **Intelligent Classification of Land Use based on BP Neural Network**  
 **and Stormwater Simulation**  
 Undergrad Co-author Journal Paper

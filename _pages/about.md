@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Taixi Chen, an incoming CS PhD student at the State University of New York at Binghamton, advised by <a href="https://www.binghamton.edu/computer-science/people/profile.html?id=nguo1"> Prof. Nancy L. Guo</a>. I received my first class honours B.S. degree in Computer Science and Technology from Hong Kong Baptist University, advised by <a href="https://www.comp.hkbu.edu.hk/~ymc/"> Prof. Cheung Yiu-ming</a>. **My current research interests are clustering analysis, video processing, image data generation, and multimodal LLM for medical problems.** Anyone interested in me, please feel free to contact me!
+I am Taixi Chen, an incoming CS PhD student at the State University of New York at Binghamton, advised by <a href="https://www.binghamton.edu/computer-science/people/profile.html?id=nguo1"> Prof. Nancy L. Guo</a>. I received my first class honours B.S. degree in Computer Science and Technology from Hong Kong Baptist University, advised by <a href="https://www.comp.hkbu.edu.hk/~ymc/"> Prof. Cheung Yiu-ming</a>. **My current research interests are clustering analysis, video processing, and multimodal LLM for medical problems.** Anyone interested in me, please feel free to contact me!
 
 ---
 

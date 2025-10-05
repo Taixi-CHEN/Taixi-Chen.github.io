@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am Taixi Chen, a CS PhD student at the State University of New York at Binghamton, advised by <a href="https://www.binghamton.edu/computer-science/people/profile.html?id=nguo1"> Prof. Nancy L. Guo</a>. I received my first class honours B.S. degree in Computer Science and Technology from Hong Kong Baptist University, advised by <a href="https://www.comp.hkbu.edu.hk/~ymc/"> Prof. Cheung Yiu-ming</a>. 
 
-<span style="color: blue;"> My current research interests are: 1) Next-Generation Foundation Model for Solving Medical Problems. 2) Robustness of the Multimodal Model. 3) Innovative Deep Clustering and Similarity Metric. </span> Anyone interested in me, please feel free to contact me!
+<span style="color: Green;"> My current research interests are: 1) Next-Generation Foundation Model for Solving Medical Problems. 2) Robustness of the Multimodal Model. 3) Innovative Deep Clustering and Similarity Metric. </span> Anyone interested in me, please feel free to contact me!
 
 ---
 
@@ -39,12 +39,12 @@ B.Sc in Computer Science and Technology, First Class Honours
 
  <small>✉️ Corresponding author.</small>
 
-<small>TYrPPG: Uncomplicated and Enhanced Learning Capability rPPG for Remote Heart Rate Estimation</small>
-<small>**Taixi Chen**, Yiu-ming Cheung✉️</small>
+<small>TYrPPG: Uncomplicated and Enhanced Learning Capability rPPG for Remote Heart Rate Estimation</small>  
+<small>**Taixi Chen**, Yiu-ming Cheung✉️</small>  
 <small>IEEE WI-IAT 2025 AI4SG Workshop. [[code]](https://github.com/Taixi-CHEN/TYrPPG)</small>
 <br>
 
-<small>CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering</small>
+<small>CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering</small>  
 <small>**Taixi Chen**,  Yiu-ming Cheung✉️, Yiqun Zhang</small>  
 <small>[[code]](https://anonymous.4open.science/r/CADM-47D8/README.md)</small>
 

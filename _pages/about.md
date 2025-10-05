@@ -37,7 +37,7 @@ B.Sc in Computer Science and Technology, First Class Honours
 
 ## 📕 Selected Publication {#pub}
 
- <span style="font-size: 1.2em;">✉️ Corresponding author.
+ <span style="font-size: 0.7em;">✉️ Corresponding author.
 
 TYrPPG: Uncomplicated and Enhanced Learning Capability rPPG for Remote Heart Rate Estimation  
 **Taixi Chen**, Yiu-ming Cheung✉️  

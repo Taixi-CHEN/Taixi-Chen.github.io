@@ -37,7 +37,7 @@ B.Sc in Computer Science and Technology, First Class Honours
 
 ## 📕 Selected Publication {#pub}
 
- <span style="font-size: 0.7em;">✉️ Corresponding author.
+ <span style="font-size: 0.7em;">✉️ Corresponding author.</span>
 
 TYrPPG: Uncomplicated and Enhanced Learning Capability rPPG for Remote Heart Rate Estimation  
 **Taixi Chen**, Yiu-ming Cheung✉️  
@@ -46,7 +46,7 @@ IEEE WI-IAT 2025 AI4SG Workshop. [[code]](https://github.com/Taixi-CHEN/TYrPPG)
 
 CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering  
 **Taixi Chen**,  Yiu-ming Cheung✉️, Yiqun Zhang  
-[[code]](https://anonymous.4open.science/r/CADM-47D8/README.md)</span>
+[[code]](https://anonymous.4open.science/r/CADM-47D8/README.md)
 
 <br>
 ---

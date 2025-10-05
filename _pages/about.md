@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Taixi Chen, a CS PhD student at the State University of New York at Binghamton, advised by <a href="https://www.binghamton.edu/computer-science/people/profile.html?id=nguo1"> Prof. Nancy L. Guo</a>. I received my first class honours B.S. degree in Computer Science and Technology from Hong Kong Baptist University, advised by <a href="https://www.comp.hkbu.edu.hk/~ymc/"> Prof. Cheung Yiu-ming</a>. <span style="color: blue;">**My current research interests are: 1) Next-Generation Foundation Model for Solving Medical Problems. 2) Robustness of the Multimodal Model. 3)Innovative Deep Clustering and Similarity Metric**</span>.  Anyone interested in me, please feel free to contact me!
+I am Taixi Chen, a CS PhD student at the State University of New York at Binghamton, advised by <a href="https://www.binghamton.edu/computer-science/people/profile.html?id=nguo1"> Prof. Nancy L. Guo</a>. I received my first class honours B.S. degree in Computer Science and Technology from Hong Kong Baptist University, advised by <a href="https://www.comp.hkbu.edu.hk/~ymc/"> Prof. Cheung Yiu-ming</a>. <span style="color: blue;"> My current research interests are: 1) Next-Generation Foundation Model for Solving Medical Problems. 2) Robustness of the Multimodal Model. 3)Innovative Deep Clustering and Similarity Metric. </span> Anyone interested in me, please feel free to contact me!
 
 ---
 

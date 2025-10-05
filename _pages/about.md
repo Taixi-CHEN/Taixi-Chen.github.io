@@ -33,26 +33,20 @@ B.Sc in Computer Science and Technology, First Class Honours
 
 
 
-## 📕 Publication and Research Projects {#pub}
-**TYrPPG: Uncomplicated and Enhanced Learning Capability rPPG**  
-**for Remote Heart Rate Estimation**  
-Undergrad first author paper
+## 📕 Selected Publication {#pub}
+
+ ✉️ Corresponding author.
+
+TYrPPG: Uncomplicated and Enhanced Learning Capability rPPG
+for Remote Heart Rate Estimation
+**Taixi Chen**, Yiu-ming Cheung✉️
+IEEE WI-IAT 2025 AI4SG Workshop. [code](https://github.com/Taixi-CHEN/TYrPPG)
 <br>
 
-**CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering**  
-Undergrad first author paper
+CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering 
+**Taixi Chen**,  Yiu-ming Cheung✉️, Yiqun Zhang [code](https://anonymous.4open.science/r/CADM-47D8/README.md)
+
 <br>
-
-**Intelligent Classification of Land Use based on BP Neural Network**  
-**and Stormwater Simulation**  
-Undergrad Co-author Journal Paper
-<br> 
-
-
-**Image Denoising based on Deep Residual Network with Dual-domain Information**  
-Undergrad Co-author Journal Paper
-<br>
-
 ---
 
 

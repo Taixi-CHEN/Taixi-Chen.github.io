@@ -39,6 +39,11 @@ B.Sc in Computer Science and Technology, First Class Honours
 
  <span style="font-size: 0.86em;">✉️ Corresponding author.</span>
 
+<span style="font-size: 0.86em;">UAM: A Unified Attention-Mamba Backbone of Multimodal Framework for Tumor Cell Classification</span> 
+<span style="font-size: 0.86em;">**Taixi Chen**, Jingyun Chen, Nancy Guo✉️</span> 
+<span style="font-size: 0.86em;">Preprint [[paper]](https://arxiv.org/abs/2511.17355)</span> 
+<br>
+
 <span style="font-size: 0.86em;">TYrPPG: Uncomplicated and Enhanced Learning Capability rPPG for Remote Heart Rate Estimation </span>  
 <span style="font-size: 0.86em;">**Taixi Chen**, Yiu-ming Cheung✉️</span>  
 <span style="font-size: 0.86em;">IEEE WI-IAT 2025 AI4SG Workshop <span style="color: red;">(Oral)</span>. [[code]](https://github.com/Taixi-CHEN/TYrPPG) [[paper]](https://arxiv.org/abs/2511.05833)</span> 
@@ -46,7 +51,7 @@ B.Sc in Computer Science and Technology, First Class Honours
 
 <span style="font-size: 0.86em;">CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering </span>  
 <span style="font-size: 0.86em;">**Taixi Chen**,  Yiu-ming Cheung✉️, Yiqun Zhang </span>  
-<span style="font-size: 0.86em;">[[code]](https://anonymous.4open.science/r/CADM-47D8/README.md) [[paper]](https://arxiv.org/abs/2511.05826)</span>
+<span style="font-size: 0.86em;">Preprint [[code]](https://anonymous.4open.science/r/CADM-47D8/README.md) [[paper]](https://arxiv.org/abs/2511.05826)</span>
 
 <br>
 ---

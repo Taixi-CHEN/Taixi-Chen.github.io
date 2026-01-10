@@ -13,7 +13,7 @@ I am Taixi Chen, a CS PhD student at the State University of New York at Bingham
 ---
 
 ## 📖 Education {#education}
-**State University of New York at Binghamton, Binghamton, New York, US**     <span style="float: right;">Aug 2025 - present</span>
+**State University of New York at Binghamton, New York, US**     <span style="float: right;">Aug 2025 - present</span>
 <br>
 PhD student in Computer Science  
 

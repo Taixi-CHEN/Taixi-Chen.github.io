@@ -51,7 +51,7 @@ B.Sc in Computer Science and Technology, First Class Honours
 
 <span style="font-size: 0.86em;">CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering </span>  
 <span style="font-size: 0.86em;">**Taixi Chen**,  Yiu-ming Cheung✉️, Yiqun Zhang </span>  
-<span style="font-size: 0.86em;">Preprint, 2025 [[code]](https://anonymous.4open.science/r/CADM-47D8/README.md) [[paper]](https://arxiv.org/abs/2511.05826)</span>
+<span style="font-size: 0.86em;">ICASSP 2026 [[code]](https://anonymous.4open.science/r/CADM-47D8/README.md) [[paper]](https://arxiv.org/abs/2511.05826)</span>
 
 <br>
 ---

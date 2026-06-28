@@ -23,7 +23,7 @@ repository               : "Taixi-Chen/Taixi-Chen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Taixi Chen"
   pronouns         : # example: "she/her"  
   bio              : "CS PhD student"

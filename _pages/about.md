@@ -39,6 +39,11 @@ B.Sc in Computer Science and Technology, First Class Honours
 
  <span style="font-size: 0.86em;">✉️ Corresponding author.</span>
 
+<span style="font-size: 0.86em;">Learning from Reliable Latent Prompts for Visual Recognition with Missing Modalities</span>  
+<span style="font-size: 0.86em;">**Taixi Chen**, Nancy Guo✉️</span>  
+<span style="font-size: 0.86em;">Preprint, 2025 </span> 
+<br>
+
 <span style="font-size: 0.86em;">UAM: A Unified Attention-Mamba Backbone of Multimodal Framework for Tumor Cell Classification</span>  
 <span style="font-size: 0.86em;">**Taixi Chen**, Jingyun Chen, Nancy Guo✉️</span>  
 <span style="font-size: 0.86em;">Preprint, 2025 [[paper]](https://arxiv.org/abs/2511.17355)</span> 

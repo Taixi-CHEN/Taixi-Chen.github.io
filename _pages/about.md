@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am Taixi Chen, a CS PhD student at the State University of New York at Binghamton, advised by <a href="https://www.binghamton.edu/computer-science/people/profile.html?id=nguo1"> Prof. Nancy L. Guo</a>. I received my first class honours B.S. degree in Computer Science and Technology from Hong Kong Baptist University, advised by <a href="https://www.comp.hkbu.edu.hk/~ymc/"> Prof. Cheung Yiu-ming</a>.
 
-**My current research interests are:** <span style="color: Green;"> My research focuses on developing efficient learning methods to improve the robustness and performance of multimodal foundation models and large language models for medical AI. 
+My current research focuses on developing efficient learning methods to improve the robustness and performance of multimodal foundation models and large language models for medical AI. 
 
 ---
 

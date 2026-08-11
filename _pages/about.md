@@ -60,7 +60,6 @@ B.Sc in Computer Science and Technology, First Class Honours
 
 <br> 
 
-<br> 
 
 <div style="width: 700px; margin: 0 auto; zoom: 0.67;">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=BCe5lfqmDu6X9Gp513s5nFa_5wjt94Jn4b33u8ydFn0&cl=ffffff&w=500"></script>

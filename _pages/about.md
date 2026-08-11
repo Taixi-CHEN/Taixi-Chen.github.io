@@ -59,4 +59,4 @@ B.Sc in Computer Science and Technology, First Class Honours
 <span style="font-size: 0.86em;">ICASSP 2026 (poster) [[code]](https://github.com/Taixi-CHEN/CADM) [[paper]](https://arxiv.org/abs/2511.05826)</span> 
 
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=BCe5lfqmDu6X9Gp513s5nFa_5wjt94Jn4b33u8ydFn0&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=BCe5lfqmDu6X9Gp513s5nFa_5wjt94Jn4b33u8ydFn0&cl=ffffff&w=700"></script>

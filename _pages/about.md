@@ -66,7 +66,7 @@ B.Sc in Computer Science and Technology, First Class Honours
 
 ## Services {#ser}
 
-**TPC**: MMM27' and ICIC26'
+**Technical Program Committee/Reviewer:**: MMM27', ICIC26'
 
 <br>
 

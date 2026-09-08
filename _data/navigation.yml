@@ -13,6 +13,9 @@ main:
 
   - title: "Publications"
     url: /#pub
+    
+  - title: "Services"
+    url: /#ser
 
   # - title: "Talks"
   #   url: /talks/    

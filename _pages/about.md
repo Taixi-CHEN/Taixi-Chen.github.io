@@ -63,8 +63,6 @@ B.Sc in Computer Science and Technology, First Class Honours
 <span style="font-size: 0.86em;">**Taixi Chen**,  Yiu-ming Cheung✉️, Yiqun Zhang </span>  
 <span style="font-size: 0.86em;">ICASSP 2026 (poster) [[code]](https://github.com/Taixi-CHEN/CADM) [[paper]](https://arxiv.org/abs/2511.05826)</span> 
 
-<br>
-
 
 ## Services {#ser}
 

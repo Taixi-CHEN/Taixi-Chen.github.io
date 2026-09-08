@@ -10,7 +10,6 @@ I am Taixi Chen, a CS PhD student at the State University of New York at Bingham
 
 My current research focuses on developing **efficient** learning methods to improve the **robustness** and **capabilities** of multimodal foundation models and large language models for medical AI. 
 
----
 
 ## 📖 Education {#education}
 **State University of New York at Binghamton, New York, US**     <span style="float: right;">Aug 2025 - present</span>
@@ -65,6 +64,13 @@ B.Sc in Computer Science and Technology, First Class Honours
 <span style="font-size: 0.86em;">ICASSP 2026 (poster) [[code]](https://github.com/Taixi-CHEN/CADM) [[paper]](https://arxiv.org/abs/2511.05826)</span> 
 
 <br>
+
+
+## Services {#ser}
+
+TPC for MMM27' and ICIC26'
+
+
 
 <div style="width: auto; margin: 0 auto; zoom: 0.67;">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=BCe5lfqmDu6X9Gp513s5nFa_5wjt94Jn4b33u8ydFn0&cl=ffffff&w=500"></script>

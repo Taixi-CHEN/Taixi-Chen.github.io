@@ -56,7 +56,7 @@ B.Sc in Computer Science and Technology, First Class Honours
 
 <span style="font-size: 0.86em;">TYrPPG: Uncomplicated and Enhanced Learning Capability rPPG for Remote Heart Rate Estimation </span>  
 <span style="font-size: 0.86em;">**Taixi Chen**, Yiu-ming Cheung✉️</span>  
-<span style="font-size: 0.86em;">IEEE WI-IAT 2025 <span style="color: red;">(Oral)</span>. [[code]](https://github.com/Taixi-CHEN/TYrPPG) [[paper]](https://ieeexplore.ieee.org/abstract/document/11676916)</span> 
+<span style="font-size: 0.86em;">IEEE WI-IAT 2025 AI4SG <span style="color: red;">(Oral)</span>. [[code]](https://github.com/Taixi-CHEN/TYrPPG) [[paper]](https://ieeexplore.ieee.org/abstract/document/11676916)</span> 
 <br>
 
 <span style="font-size: 0.86em;">CADM: Cluster-customized Adaptive Distance Metric for Categorical Data Clustering </span>  
